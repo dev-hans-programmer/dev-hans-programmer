@@ -1,6 +1,6 @@
 # Hey there! I'm Hasan Ali 👋
 
-Welcome to my coding sanctuary on GitHub! I'm a passionate Full Stack Web Developer hailing from the vibrant city of Kolkata, India 🇮🇳. With over 4 years of experience in crafting digital experiences, I've journeyed through various technologies, honing my skills to create efficient and user-centric applications.
+Welcome to my coding world on GitHub! I'm a passionate Full Stack Web Developer hailing from the vibrant city of Kolkata, India 🇮🇳. With over 4 years of experience in crafting digital experiences, I've journeyed through various technologies, honing my skills to create efficient and user-centric applications.
 
 ## About Me
 
